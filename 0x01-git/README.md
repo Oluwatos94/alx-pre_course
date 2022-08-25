@@ -1,1 +1,1 @@
-my second commit
+The beginning of my project journey.
